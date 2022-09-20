@@ -18,9 +18,13 @@ En este repositorio se encontraran todos los archivos relacionados con la genera
 ## Contenido del repositorio
 
 -Archivos de livesscripts de Matlab
+
 -Archivos de URDF de ejemplo con primitivas
+
 -Archivos de CAD del robot móvil de clase (Raspbot)
+
 -Archivos de CAD de la plataforma móvil (Móvil omnidireccional)
+
 -Archivos de CAD robot serial Dofbot
 
 # Obejtivo de repositorio
